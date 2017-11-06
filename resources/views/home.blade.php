@@ -42,7 +42,7 @@
                 <span class="icon-bar"></span>
                 </button>
                 <a class="navbar-brand" href="index.html">
-                  <img src="img/logo2.png" alt="Logo">
+                  <img src="img/logo4.png" alt="Logo" > 
                 </a>
               </div>
                 
