@@ -21,6 +21,7 @@
     <script src="/js/jquery.counterup.js"></script>
     <script src="/js/google-map-init.js"></script>
     <script src="/js/main.js"></script>
+    <script src="/js/video.js"></script>
 
 </head>
 <body>
@@ -64,16 +65,19 @@
         
     <!-- Slider -->
     <section id="slider">
-      <div class="container">
-        <div class="row">
-          <div class="col-md-10 col-md-offset-2">
-            <div class="block">
-              <h1 class="animated fadeInUp">Dominik Kozicki <br> Muzyk</h1>
-              <p class="animated fadeInUp">Oficjalna strona </p>
-            </div>
-          </div>
+    <video autoplay muted loop>
+        <source src="video/source.mov" type="video/mp4">
+        <div class="container">
+            <div class="row">
+                  <div class="col-md-10 col-md-offset-2">
+                    <div class="block">
+                      <h1 class="animated fadeInUp">Dominik Kozicki <br> Muzyk</h1>
+                      <p class="animated fadeInUp">Oficjalna strona </p>
+                    </div>
+                  </div>
+              </div>
         </div>
-      </div>
+      </video>
     </section>
     <!-- Wrapper -->
     <section id="intro">
